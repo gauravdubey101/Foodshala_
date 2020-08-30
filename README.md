@@ -29,6 +29,15 @@ Register Page:
 
 
 
+
+
+
+
+
+
+
+
+
 ![login](https://user-images.githubusercontent.com/32640041/91650519-54672680-ea9e-11ea-8ebf-83ef906256f3.gif)
 
 
@@ -39,6 +48,8 @@ Register Page:
 ..
 
 .
+
+
 
 .
 
@@ -89,6 +100,12 @@ password"12345
 .
 .
 ..
+
+
+
+
+
+
 .
 .
 .
@@ -102,6 +119,11 @@ password"12345
 .
 .
 .
+
+
+
+
+
 
 .
 .
