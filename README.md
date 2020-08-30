@@ -16,3 +16,33 @@ Register Page
 
 
 ![login](https://user-images.githubusercontent.com/32640041/91650519-54672680-ea9e-11ea-8ebf-83ef906256f3.gif)
+
+
+
+
+
+
+..
+
+.
+
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+![admin#3](https://user-images.githubusercontent.com/32640041/91650576-ec651000-ea9e-11ea-8044-b85946e0e382.gif)
+
+
