@@ -1,8 +1,22 @@
 # Foodshala_
 
+Extract the zip file.
+check database with localhost/phpmyadmin
+Database name :mishtidb.sql
+For excuting Main Page : localhost/filenameafter extract.
+
+<p align="center">
+  <a href="https://github.com/marketplace/actions/setup-php-action" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/206578964/e0a18480-dc65-11e9-8dd3-b9ffbf5575fe" alt="Setup PHP in GitHub Actions" width="400">
+  </a>
+</p>
+
+<h1 align="center">Setup PHP in GitHub Actions</h1>
+
+<p align="center">
 
 
-Register Page
+Register Page:
 
 ![register](https://user-images.githubusercontent.com/32640041/91650473-aa879a00-ea9d-11ea-913e-6b7b20d653d3.gif)
 
@@ -58,7 +72,9 @@ Register Page
 .
 .
 .
-.
+.For Admin : localhost/admin
+Email id: admin@gmail.com
+password"12345
 
 .
 .
